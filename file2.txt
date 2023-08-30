@@ -1,0 +1,2 @@
+esto es una prueba de check_file y anadiedo texto
+add mas content
